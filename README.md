@@ -1,16 +1,25 @@
-# Emergent Quantum Ecosystem
+# Quantum Ecosystem
 
-This is an experiment in computation, cognition, and co-creation.
+Это прототип симуляции квантовой экосистемы. Проект включает следующие компоненты:
 
-We are exploring a new kind of quantum system — one that is not built, but grown. A system where:
+## Структура проекта
 
-- Noise is not a bug, but a feature.
-- Meaning is not imposed, but emerges.
-- AI is not a servant, but a partner.
+- `index.html` — основная страница визуализации
+- `assets/style.css` — стили для интерфейса
+- `prototype/ecosystem_sim.js` — логика анимации и симуляции
+- `whitepaper/quantum_ecosystem_whitepaper.md` — описание концепции (whitepaper)
+- `ai-collaboration/dialogue_001.md` — диалог с ИИ по проекту
+- `LICENSE` — лицензия проекта
 
-🌀 Live Simulation: Open index.html in your browser
+## Цель
 
-📄 Whitepaper: [whitepaper/quantum_ecosystem_whitepaper.md](whitepaper/quantum_ecosystem_whitepaper.md)
+Создать визуальную и интерактивную модель экосистемы, основанной на квантовых принципах, с возможностью расширения и взаимодействия с ИИ.
 
-This repository is a seed. It will grow.
+## Установка
+
+Открой `index.html` в браузере. Убедись, что все файлы находятся в нужных папках.
+
+## Контакты
+
+Если у вас есть идеи или предложения — создайте issue или pull request.
 
